@@ -40,3 +40,19 @@ expo start
 
 #### Funcionalidades desta aplicação
 - Calculo da área de um triângulo (base * altura / 2)
+
+
+## Aula 3
+Neste projeto, desenvolvemos um aplicativo simples utilizando React Native com Expo. O foco foi aprender a estrutura básica de uma tela, gerenciar o estado do componente e manipular eventos com o componente `Button`.
+
+
+
+Para inciar a aplicação expo
+```bash 
+expo start
+```
+
+### Funcionalidades desta aplicação
+- Botões para seções: Início, Sobre, Momento e Contatos
+- Seções de conteúdo
+- Botão para ver o uso da bateria
